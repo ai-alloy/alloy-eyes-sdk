@@ -1,0 +1,9 @@
+/home/tration/work/kendryte/xb-k210/sdk/alloy-eyes-sdk/build/watchdog/CMakeFiles/edit_cache.dir
+/home/tration/work/kendryte/xb-k210/sdk/alloy-eyes-sdk/build/watchdog/CMakeFiles/rebuild_cache.dir
+/home/tration/work/kendryte/xb-k210/sdk/alloy-eyes-sdk/build/watchdog/CMakeFiles/watchdog.dir
+/home/tration/work/kendryte/xb-k210/sdk/alloy-eyes-sdk/build/watchdog/lib/CMakeFiles/rebuild_cache.dir
+/home/tration/work/kendryte/xb-k210/sdk/alloy-eyes-sdk/build/watchdog/lib/CMakeFiles/edit_cache.dir
+/home/tration/work/kendryte/xb-k210/sdk/alloy-eyes-sdk/build/watchdog/lib/CMakeFiles/kendryte.dir
+/home/tration/work/kendryte/xb-k210/sdk/alloy-eyes-sdk/build/watchdog/fat-fs-module/CMakeFiles/edit_cache.dir
+/home/tration/work/kendryte/xb-k210/sdk/alloy-eyes-sdk/build/watchdog/fat-fs-module/CMakeFiles/rebuild_cache.dir
+/home/tration/work/kendryte/xb-k210/sdk/alloy-eyes-sdk/build/watchdog/fat-fs-module/CMakeFiles/fat-fs-module.dir
