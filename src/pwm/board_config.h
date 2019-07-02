@@ -226,7 +226,7 @@
 #define JTAG_TDO_PIN_NUM		3  //IO3
 
 /* eth */
-#define ETH_CSSN_PIN_NUM		12  //IO12
+#define ETH_CSSN_PIN_NUM		11  //IO11
 #define ETH_INT_PIN_NUM			10  //IO10
 #define ETH_RST_PIN_NUM			9   //IO9
 #define ETH_SCLK_PIN_NUM		8   //IO8
