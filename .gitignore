@@ -7,4 +7,5 @@ face_detect
 face_gui_demo
 *.rar
 *.tar.gz
+/customer
 
