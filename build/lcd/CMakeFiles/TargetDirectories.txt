@@ -1,9 +1,0 @@
-/home/tration/work/kendryte/xb-k210/sdk/alloy-eyes-sdk/build/lcd/CMakeFiles/edit_cache.dir
-/home/tration/work/kendryte/xb-k210/sdk/alloy-eyes-sdk/build/lcd/CMakeFiles/rebuild_cache.dir
-/home/tration/work/kendryte/xb-k210/sdk/alloy-eyes-sdk/build/lcd/CMakeFiles/lcd.dir
-/home/tration/work/kendryte/xb-k210/sdk/alloy-eyes-sdk/build/lcd/lib/CMakeFiles/rebuild_cache.dir
-/home/tration/work/kendryte/xb-k210/sdk/alloy-eyes-sdk/build/lcd/lib/CMakeFiles/edit_cache.dir
-/home/tration/work/kendryte/xb-k210/sdk/alloy-eyes-sdk/build/lcd/lib/CMakeFiles/kendryte.dir
-/home/tration/work/kendryte/xb-k210/sdk/alloy-eyes-sdk/build/lcd/fat-fs-module/CMakeFiles/edit_cache.dir
-/home/tration/work/kendryte/xb-k210/sdk/alloy-eyes-sdk/build/lcd/fat-fs-module/CMakeFiles/rebuild_cache.dir
-/home/tration/work/kendryte/xb-k210/sdk/alloy-eyes-sdk/build/lcd/fat-fs-module/CMakeFiles/fat-fs-module.dir

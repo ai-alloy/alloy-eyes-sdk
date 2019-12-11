@@ -1,9 +1,0 @@
-/home/tration/work/kendryte/xb-k210/sdk/alloy-eyes-sdk/build/gpio_led/CMakeFiles/edit_cache.dir
-/home/tration/work/kendryte/xb-k210/sdk/alloy-eyes-sdk/build/gpio_led/CMakeFiles/rebuild_cache.dir
-/home/tration/work/kendryte/xb-k210/sdk/alloy-eyes-sdk/build/gpio_led/CMakeFiles/gpio_led.dir
-/home/tration/work/kendryte/xb-k210/sdk/alloy-eyes-sdk/build/gpio_led/lib/CMakeFiles/rebuild_cache.dir
-/home/tration/work/kendryte/xb-k210/sdk/alloy-eyes-sdk/build/gpio_led/lib/CMakeFiles/edit_cache.dir
-/home/tration/work/kendryte/xb-k210/sdk/alloy-eyes-sdk/build/gpio_led/lib/CMakeFiles/kendryte.dir
-/home/tration/work/kendryte/xb-k210/sdk/alloy-eyes-sdk/build/gpio_led/fat-fs-module/CMakeFiles/edit_cache.dir
-/home/tration/work/kendryte/xb-k210/sdk/alloy-eyes-sdk/build/gpio_led/fat-fs-module/CMakeFiles/rebuild_cache.dir
-/home/tration/work/kendryte/xb-k210/sdk/alloy-eyes-sdk/build/gpio_led/fat-fs-module/CMakeFiles/fat-fs-module.dir

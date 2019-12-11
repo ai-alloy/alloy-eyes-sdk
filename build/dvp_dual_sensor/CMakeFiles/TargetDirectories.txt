@@ -1,9 +1,0 @@
-/home/tration/work/kendryte/xb-k210/sdk/alloy-eyes-sdk/build/dvp_dual_sensor/CMakeFiles/rebuild_cache.dir
-/home/tration/work/kendryte/xb-k210/sdk/alloy-eyes-sdk/build/dvp_dual_sensor/CMakeFiles/edit_cache.dir
-/home/tration/work/kendryte/xb-k210/sdk/alloy-eyes-sdk/build/dvp_dual_sensor/CMakeFiles/dvp_dual_sensor.dir
-/home/tration/work/kendryte/xb-k210/sdk/alloy-eyes-sdk/build/dvp_dual_sensor/lib/CMakeFiles/rebuild_cache.dir
-/home/tration/work/kendryte/xb-k210/sdk/alloy-eyes-sdk/build/dvp_dual_sensor/lib/CMakeFiles/edit_cache.dir
-/home/tration/work/kendryte/xb-k210/sdk/alloy-eyes-sdk/build/dvp_dual_sensor/lib/CMakeFiles/kendryte.dir
-/home/tration/work/kendryte/xb-k210/sdk/alloy-eyes-sdk/build/dvp_dual_sensor/fat-fs-module/CMakeFiles/edit_cache.dir
-/home/tration/work/kendryte/xb-k210/sdk/alloy-eyes-sdk/build/dvp_dual_sensor/fat-fs-module/CMakeFiles/rebuild_cache.dir
-/home/tration/work/kendryte/xb-k210/sdk/alloy-eyes-sdk/build/dvp_dual_sensor/fat-fs-module/CMakeFiles/fat-fs-module.dir

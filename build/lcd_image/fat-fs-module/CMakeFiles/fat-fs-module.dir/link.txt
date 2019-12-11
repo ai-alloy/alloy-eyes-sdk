@@ -1,2 +1,0 @@
-/opt/my-kendryte-toolchain/bin/riscv64-unknown-elf-ar qc libfat-fs-module.a  CMakeFiles/fat-fs-module.dir/lib/ff.c.obj CMakeFiles/fat-fs-module.dir/lib/diskio.c.obj CMakeFiles/fat-fs-module.dir/lib/sdcard.c.obj CMakeFiles/fat-fs-module.dir/lib/w25qxx.c.obj CMakeFiles/fat-fs-module.dir/lib/ccsbcs.c.obj
-/opt/my-kendryte-toolchain/bin/riscv64-unknown-elf-ranlib libfat-fs-module.a

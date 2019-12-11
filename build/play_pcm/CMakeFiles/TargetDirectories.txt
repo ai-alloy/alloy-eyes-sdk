@@ -1,9 +1,0 @@
-/home/tration/work/kendryte/xb-k210/sdk/alloy-eyes-sdk/build/play_pcm/CMakeFiles/edit_cache.dir
-/home/tration/work/kendryte/xb-k210/sdk/alloy-eyes-sdk/build/play_pcm/CMakeFiles/rebuild_cache.dir
-/home/tration/work/kendryte/xb-k210/sdk/alloy-eyes-sdk/build/play_pcm/CMakeFiles/play_pcm.dir
-/home/tration/work/kendryte/xb-k210/sdk/alloy-eyes-sdk/build/play_pcm/lib/CMakeFiles/rebuild_cache.dir
-/home/tration/work/kendryte/xb-k210/sdk/alloy-eyes-sdk/build/play_pcm/lib/CMakeFiles/edit_cache.dir
-/home/tration/work/kendryte/xb-k210/sdk/alloy-eyes-sdk/build/play_pcm/lib/CMakeFiles/kendryte.dir
-/home/tration/work/kendryte/xb-k210/sdk/alloy-eyes-sdk/build/play_pcm/fat-fs-module/CMakeFiles/edit_cache.dir
-/home/tration/work/kendryte/xb-k210/sdk/alloy-eyes-sdk/build/play_pcm/fat-fs-module/CMakeFiles/rebuild_cache.dir
-/home/tration/work/kendryte/xb-k210/sdk/alloy-eyes-sdk/build/play_pcm/fat-fs-module/CMakeFiles/fat-fs-module.dir
