@@ -1,5 +1,15 @@
 # IDE Project For gui_dev
 
+### 说明：
+
+​	此SDK非完整版本，完整版本需增加以下文件：
+
+​		1、components/facesdk文件夹
+
+​		2、src/face_gui_demo文件夹
+
+​		完整版本获取方式，请阅读https://wiki.ai-alloy.com/start-intro/env-build获取SDK代码内容。
+
 ### 构建
 
 1. 拉取仓库分支
@@ -33,7 +43,7 @@
    > -fno-common会导致运行时挂机
 3. 由IDE自动拉取的k210官方代码存在问题
 4. 
-  
+
 
 ### IDE设置
 
@@ -45,4 +55,3 @@
         "editor.formatOnSave": false
     }
 ```
- 
