@@ -1,0 +1,9 @@
+{
+    "editor.formatOnType": false,
+    "editor.formatOnPaste": false,
+    "editor.formatOnSave": false,
+    "debug.openocd.port": 10643,
+    "files.associations": {
+        "socket.h": "c"
+    }
+}
