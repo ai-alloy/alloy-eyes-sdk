@@ -8,7 +8,7 @@
 
 ​		2、src/face_gui_demo文件夹
 
-​		完整版本获取方式，请阅读https://wiki.ai-alloy.com/start-intro/env-build获取SDK代码内容。
+​		完整版本获取方式，请阅读 [获取完整版SDK](https://wiki.ai-alloy.com/start-intro/env-build )。
 
 ### 构建
 
